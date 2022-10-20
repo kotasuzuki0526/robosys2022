@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Kota Suzuki s21c1064cl@s.chibakoudai.jp
 import sys
 
 ans = 0
