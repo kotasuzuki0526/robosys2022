@@ -1,5 +1,6 @@
 # robosys2022
-自分のコード
+
+#ライセンス
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
@@ -7,7 +8,7 @@
 * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 # plusコマンド
-![test](https://github.com/kotasuzuki0526/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/kotasuzuki0526/robosys2022/blob/main/plus/actions/workflows/test.yml/badge.svg)
 
 
 標準入力から読み込んだ数字を足す。
