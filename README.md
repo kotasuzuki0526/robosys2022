@@ -8,7 +8,7 @@
 * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 # plusコマンド
-![plus](https://github.com/kotasuzuki0526/robosys2022/blob/main/plus/actions/workflows/test.yml/badge.svg)
+![plus](https://github.com/kotasuzuki0526/robosys2022/actions/workflows/test.yml/badge.svg)
 
 
 標準入力から読み込んだ数字を足す。
