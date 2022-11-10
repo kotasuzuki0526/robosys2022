@@ -11,9 +11,9 @@
 ![test](https://github.com/kotasuzuki0526/robosys2022/actions/workflows/test.yml/badge.svg)
 
 
-標準入力から読み込んだ数字を足す。
+標準入力から読み込んだ数字を足し、結果を標準出力に出力する。
+例えば、seq 5 | ./plus  とコマンドを打つと、１から５までの足し算を行い、その結果を出力する。
 
-（ここに前ページの項目をいろいろ書く）
 
 ## 必要なソフトウェア
 * Python
