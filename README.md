@@ -3,8 +3,9 @@
 # plusコマンド
 ![test](https://github.com/kotasuzuki0526/robosys2022/actions/workflows/test.yml/badge.svg)
 
-
 * 標準入力から読み込んだ数字を足し、結果を出力します.
+## 使い方
+* seq n と ./plusをパイプでつないで使用します.nは任意の整数です.
 * コマンドの例
 ```
 seq 15 | ./plus
