@@ -12,7 +12,7 @@ $ seq 15 | ./plus
 ```
 * 結果
 ```
-$ 120
+120
 ```
 ## インストール方法
 * 以下を実行してください.
@@ -28,5 +28,5 @@ $ git clone https://github.com/kotasuzuki0526/robosys2022.git
 ## ライセンス
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+	* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2022 Kota Suzuki
