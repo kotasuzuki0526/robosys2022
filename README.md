@@ -20,7 +20,7 @@ $ 120
 $ git clone https://github.com/kotasuzuki0526/robosys2022.git
 ```
 ## 必要なソフトウェア
-* テスト済み:Python 3.7〜3.10
+* Python 3.7〜3.10 (テスト済み)
 
 ## 動作確認済み環境
 * Ubuntu 20.04
