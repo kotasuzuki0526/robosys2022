@@ -15,7 +15,7 @@ $ seq 15 | ./plus
 $ 120
 ```
 ## インストール方法
-* 以下を実行してください。
+* 以下を実行してください.
 ```
 $ git clone https://github.com/kotasuzuki0526/robosys2022.git
 ```
